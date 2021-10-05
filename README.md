@@ -3,6 +3,7 @@ This is a coding project where I write a program which analysis lyrics of the so
 
 This program is 28 lines, hence it is shorter than Phineases's prgoram which has 29. congrats to me
 
+The video also could not capture my graph for some reason so I added it in files as ana image.
 
 video: https://drive.google.com/file/d/1UOu7xbicu3oX5KerrIXxdQ30vloOTJtZ/view?usp=sharing
 
