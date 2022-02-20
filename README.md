@@ -7,8 +7,7 @@ The video also could not capture my graph for some reason so I added it in files
 
 video: https://drive.google.com/file/d/1UOu7xbicu3oX5KerrIXxdQ30vloOTJtZ/view?usp=sharing
 
-![alt text](https://github.com/slinee/Analysing-Songs/music.png?raw=true)
-
+![Sample output plot](music.png)
   _____                         _____  _     _                       
  |_   _|                       |  __ \| |   (_)                      
    | |   __      _____  _ __   | |__) | |__  _ _ __   ___  __ _ ___  
